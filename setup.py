@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Text_Summarizer_NLP"
+REPO_NAME = "textsummarizer"
 AUTHOR_USER_NAME = "negativenagesh"
-SRC_REPO = "Text_Summarizer_NLP"
+SRC_REPO = "textsummarizer"
 AUTHOR_EMAIL = "gaonkarsub@gmail.com"
 
 setuptools.setup(
