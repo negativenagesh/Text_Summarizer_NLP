@@ -3,7 +3,7 @@ from src.textsummarizer.components.data_ingestion import DataIngestion
 from src.textsummarizer.logging import logger
 
 
-class DataIngestionTrainingPipeline(DataIngestion):
+class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
 
